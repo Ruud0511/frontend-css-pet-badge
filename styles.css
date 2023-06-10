@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+/*
+Table of contents:
+    1. Global Styles
+    2. Typography
+    3. Utility
+    4. Areas
+    5. Components
+        5.1 Button
+        5.2 Input
+*/
+
+/*
+    1. Global Styles
+ */
+
+.article {
+    display: inline-block;
+    background-color: 	hsl(26, 55%, 85%);
+    border-radius: 8px;
+    padding: 32px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+}
+
+.img {
+    width: 300px;
+    border: 8px solid hsl(8, 36%, 54%);
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/*
+    2. Typography
+ */
+
+.h2 {
+    font-family: 'Oleo Script Swash Caps', Arial, sans-serif;
+    text-align: center;
+    font-size: 3.75em;
+    margin: 0;
+    color: 	hsl(8, 36%, 54%);
+}
+
+/*
+    3. Utility
+ */
+
+
+/*
+    4. Areas
+ */
